@@ -74,10 +74,14 @@ To: destPath
 
 ## OUTPUT:
 After execution, every file in the source folder will be copied to the destination folder and renamed like:
-~~~
-Report_20250511_191201.pdf  
-Image_20250511_191202.png  
-Notes_20250511_191203.docx
-~~~
+
+![Screenshot 2025-05-11 211134](https://github.com/user-attachments/assets/14acd684-8ff9-4f71-a94d-d21c4cc753e7)
+
+![Screenshot 2025-05-11 211205](https://github.com/user-attachments/assets/dc6e8de1-c169-4514-918f-5ebbd392a119)
+
+![image](https://github.com/user-attachments/assets/e47b084f-ca82-4257-b382-1aac5eb5f11f)
+
+![image](https://github.com/user-attachments/assets/9ac35cba-e81f-44c6-bdf9-41c0268eee70)
+
 ## Result:
 The UiPath workflow successfully reads all files from a source folder, appends a timestamp to each file name, and copies them to a new destination folder.
